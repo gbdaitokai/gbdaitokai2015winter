@@ -4,3 +4,4 @@
 * [オープンセミナー2016@岡山](http://okayama.open-seminar.org/)
 * [Okayama IT Engineers Community](http://oitec.net/)
 * [関西ゲーム勉強会](https://www.facebook.com/ksgstudy)
+* [岡山Javaユーザ会](https://okajug.appspot.com)
