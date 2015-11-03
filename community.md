@@ -6,3 +6,4 @@
 * [関西ゲーム勉強会](https://www.facebook.com/ksgstudy)
 * [岡山Javaユーザ会](https://okajug.appspot.com)
 * [岡山県立大学アクティブキャンパス事業岡山オープンソース研究会](http://www.oka-pu.ac.jp/index.php?page_id=5293#a10)
+* [GCPUG岡山](https://plus.google.com/communities/115366422273280046817)
