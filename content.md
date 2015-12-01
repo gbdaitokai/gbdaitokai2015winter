@@ -165,7 +165,7 @@ ShareWisはもともとRubyをメインの開発言語に据えた企業です�
 
 ## タイトル
 
-Microsoft　♥　Azure
+Microsoft　♥　Java
 
 ## 登壇者
 
@@ -176,4 +176,4 @@ Microsoft　♥　Azure
 昨年、MicrosoftはMicrosoft ♥ OSSを発表しました。今会社が大きく変わってきています。
 本セッションでは、いま変わりつつあるMicrosoftのJavaに対する取り組みを簡単に紹介し、
 Java on Azure における DevOps シナリオを、Jenkins や、Docker, Tutum などを
-組み合わせながらデモします。どうぞお楽しみに。赤裸々タイムは夜におあすけね！！
+組み合わせながらデモします。どうぞお楽しみに。赤裸々タイムは夜におあずけね！！
